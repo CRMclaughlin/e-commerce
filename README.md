@@ -52,7 +52,10 @@
   
 ## Demo
 
-View demo [Not Available Yet]()
+View demo:
+
+* How to start in terminal [Video](https://drive.google.com/file/d/1tLvdd7_gufdQjgWjKp1aO00pvSNNI_oI/preview)
+* Postman Get, Post, Put, Delete [Video](https://drive.google.com/file/d/15-htvUpu69mw022f1nhc02HZNWFkJ8Sb/preview)
 
   
 ## License
